@@ -1,0 +1,8 @@
+# Environment credentials & secrets
+.env
+
+# Logs and runtime caches
+lake_ingest_execution.log
+__pycache__/
+.venv/
+desktop.ini
