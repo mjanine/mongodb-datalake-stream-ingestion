@@ -87,16 +87,3 @@ python 03_raw_ingest_lake.py
 
 
 
-```
-
----
-
-### Quick Folder Checklist:
-1. Fix the `logging.basicConfig` line in `03_raw_ingest_lake.py`.
-2. Save `README.md` in the folder root[cite: 10].
-3. Add `.gitignore` to hide `.env` and `__pycache__`[cite: 10].
-4. Rename `Activity2` to `mongodb-datalake-stream-ingestion`[cite: 10].
-
-Project #6 is standardized! Do you have a 7th folder left in `DA - Projects`[cite: 1], or does this wrap up all your repositories?
-
-```
